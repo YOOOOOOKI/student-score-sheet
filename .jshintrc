@@ -1,0 +1,16 @@
+{
+	 "globals": {
+		"console": false,
+		"require":false,
+		"module":false,
+		"describe":false,
+		"it":false,
+		"expect":false
+    },
+	"globalstrict": true,
+	"esversion" : 6,
+	"eqeqeq": true,//===!==限定
+	" bitwise": true
+
+	
+}
